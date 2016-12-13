@@ -25,7 +25,7 @@ public class GameScreen extends JPanel {
 	private int player_velocity = 18;
 	private int player_damage = 50;
 	private int attackDelay = 4;
-	private int bulletSize = 25;
+	private int bulletSize = 24;
 
 	private int shootTick = 0;
 	private int generationTick = 0;
