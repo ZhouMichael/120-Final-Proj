@@ -1,0 +1,1 @@
+18,50,4,25,0,1,0,1,0,Damage,Att Speed,Speed,Bull Size,20,50,20,30
